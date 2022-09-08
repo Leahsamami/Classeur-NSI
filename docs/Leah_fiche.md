@@ -1,20 +1,20 @@
-# Ma fiche de présentation
+# Ma fiche de presentation
 
 
 ## Nom : MICHEL
 
-## Prénom : Léah
+## Prénom : Leah
 
 ## Classe : 1G2
 
-### Mes Spécialités :
+### Mes Specialites :
 - NSI ;
 - Maths ;
 - SES
 
 ### Mes Plans pour le future :
-Poursuivre dans l'informatique ou le dévelloppement.
+Poursuivre dans l'informatique ou le develloppement.
 
 ### Pourquoi NSI ?
-Aquérire les bases dans certaine langues informatiques comme Python par exemple et apprendre plus sûr l'Histoire de l'informatique.
+Aquerire les bases dans certaine langues informatiques comme Python par exemple et apprendre plus sur l'Histoire de l'informatique.
 
